@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e765edd679844147b13a7fc2b7b029c, type: 3}
+  m_Name: Mask Object
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8248504121700233768, guid: bd1c4bbd94edb1943a56ad28cb10fa10, type: 3}
+  type: 3
+  description: Mask to protect you from airborne virus
+  price: 200
+  DefenceBonus: 10
